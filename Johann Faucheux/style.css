@@ -1,0 +1,139 @@
+body {
+	background-image:url(images/giphy.gif);
+	background-size: contain;
+
+}
+
+.map {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 10px;
+	color: white;
+	text-align: center;
+	border-radius: 30px 30px 0px 0px;
+	border-style: inset;
+	border-color: #010038;
+	background-color: #1d4d4f;
+	margin-bottom: 10px;
+}
+
+.nom	{
+	margin-top: -60px;
+	font-family: 'Pacifico', cursive;
+	font-size: 60px;
+	text-align: center;
+	color: white;
+}
+
+.id{
+	font-family: 'Montserrat', sans-serif;
+	display: block;
+	position: relative;
+	height: 0 auto;
+	width: 300px;
+	background-color: white;
+	margin: 30px;
+	text-align: center;
+	color: black;
+	border-radius: 30px;
+	border-style: inset;
+	border-color: #010038;
+} 
+
+.like{
+	font-family: 'Montserrat', sans-serif;
+	display: block;
+	position: static;
+	background-color: #1d4d4f;
+	text-align: center;
+	color: white;
+	border-radius: 80px;
+	border-style: inset;
+	margin-right: 500px;
+	margin-left: 500px;
+	border-color: #010038;
+} 
+
+.container {
+	display: flex;
+	justify-content: space-around;
+	margin-top: -40px;
+}
+
+
+.intro {
+	display: flex;
+	justify-content: space-between ;
+	margin-left: 199px; 
+}
+
+.drucker{
+	text-align: center;
+}
+
+.flims	{
+	margin-top: -40px;
+	font-family: 'Pacifico', cursive;
+	font-size: 60px;
+	text-align: center;
+	color: white;
+}
+
+.container2{
+	margin-top: -40px;
+	display: flex;
+	justify-content: space-between; 
+}
+
+.procrastination{
+	margin-top: -90px;
+	font-family: 'Pacifico', cursive;
+	font-size: 60px;
+	text-align: center;
+	color: white;
+}
+
+
+.chichi{
+	font-family: 'Pacifico', cursive;
+	color: white;
+	font-size: 60px;
+	text-align: center;
+	background-image: url(images/chichi.gif);
+	background-repeat: no-repeat;
+  	overflow: hidden;
+  	background-position: center;
+}
+
+.giscard{
+	font-family: 'Pacifico', cursive;
+	color: white;
+	font-size: 40px;
+	text-align: center;
+	background-image: url(images/giscard.gif);
+	background-repeat: no-repeat;
+	background-size: 400px;
+  	overflow: hidden;
+  	background-position: center;
+}
+
+.Bonus {
+	position: relative;
+	text-align: center;
+	background-color: #1d4d4f;
+	cursor:pointer;
+	font-family: 'Pacifico', cursive;
+	color:#ffffff;
+	border-radius:100px;
+	border:3px solid #010038;
+	font-size:30px;
+	padding:20px 40px;
+	text-decoration: none;
+	margin-left: 545px;
+}
+
+.Bonus:hover {
+	background-color:red;
+	text-align: center;
+}
+
+
